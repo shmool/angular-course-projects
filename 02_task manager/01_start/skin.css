@@ -1,0 +1,4 @@
+.tr-active {
+    background: lightgreen;
+    text-decoration: line-through;
+}

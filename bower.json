@@ -1,0 +1,21 @@
+{
+  "name": "angular-course-projects",
+  "version": "0.0.1",
+  "authors": [
+    "nirkaufman <Nir@500tech.com>"
+  ],
+  "description": "projects for the angular course",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "angular": "~1.2.21",
+    "bootsketch": "~1.0.0"
+  }
+}
