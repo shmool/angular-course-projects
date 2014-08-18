@@ -1,4 +1,11 @@
 .tr-active {
     background: lightgreen;
+}
+
+table.table-striped tr.tr-active td {
+    background: lightgreen;
+}
+
+tr.strikeout td {
     text-decoration: line-through;
 }
